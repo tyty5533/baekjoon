@@ -11,4 +11,4 @@ int main() {
 	printf("%d", A + B);
 
 	return 0;
-}
+
